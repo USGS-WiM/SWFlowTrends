@@ -1,9 +1,10 @@
 ![WIM](wim.png)
 
+## Update, YYYY-MM-DD: Deprecated 
+
+### This repository has moved to a different hosting platform and is no longer being actively maintained. [Please see [https://code.usgs.gov/WiM/sw-flow-trends](https://code.usgs.gov/WiM/sw-flow-trends) for latest updates related to this effort.]
 
 # Surface water flow trends in the nation's streams and rivers
-
-# (Archived) This project repository is now located at [https://code.usgs.gov/WiM/sw-flow-trends](https://code.usgs.gov/WiM/sw-flow-trends)
 
 ### Prerequisites
 
