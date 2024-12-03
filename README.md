@@ -3,6 +3,8 @@
 
 # Surface water flow trends in the nation's streams and rivers
 
+# (Archived) This project repository is now located at [https://code.usgs.gov/WiM/sw-flow-trends}(https://code.usgs.gov/WiM/sw-flow-trends)
+
 ### Prerequisites
 
 [Node Package Manager](https://en.wikipedia.org/wiki/Npm_(software)) (npm)
