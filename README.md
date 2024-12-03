@@ -3,7 +3,7 @@
 
 # Surface water flow trends in the nation's streams and rivers
 
-# (Archived) This project repository is now located at [https://code.usgs.gov/WiM/sw-flow-trends}(https://code.usgs.gov/WiM/sw-flow-trends)
+# (Archived) This project repository is now located at [https://code.usgs.gov/WiM/sw-flow-trends](https://code.usgs.gov/WiM/sw-flow-trends)
 
 ### Prerequisites
 
