@@ -1,6 +1,6 @@
 ![WIM](wim.png)
 
-## Update, YYYY-MM-DD: Deprecated 
+## Update, 2024-12-03: Deprecated 
 
 ### This repository has moved to a different hosting platform and is no longer being actively maintained. [Please see [https://code.usgs.gov/WiM/sw-flow-trends](https://code.usgs.gov/WiM/sw-flow-trends) for latest updates related to this effort.]
 
